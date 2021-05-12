@@ -5,6 +5,7 @@
     margin: 0;
 }
 
+/*Element selectors*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -13,7 +14,7 @@ a {
 p {
     font-size: 16px;
 }
-/*Body*/
+
 body {
     background-color: #d9dcd6;
 }
@@ -63,7 +64,7 @@ header nav ul li {
     background-position: center;
 }
 
-/**Section 1**/
+/**Main**/
 .content {
     width: 75%;
     display: inline-block;
@@ -97,7 +98,7 @@ header nav ul li {
     float: right;
     margin-left: 25px;
 }
-/** Section 2**/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
