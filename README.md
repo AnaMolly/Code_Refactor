@@ -28,6 +28,6 @@
 - Footer heading selector was changed to h4
 
 # Screenshot of website: 
-![Screenshot of website]Screen%20Shot%202021-05-12%20at%208.31.51.jpg
+![Screenshot of website] Screen%20Shot%202021-05-12%20at%208.31.51%20PM.png
 
 # Link to deployed application: 
