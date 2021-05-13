@@ -28,8 +28,6 @@
 - Footer heading selector was changed to h4
 
 # Screenshot of website: 
-
-
-
+![]
 
 # Link to deployed application: 
