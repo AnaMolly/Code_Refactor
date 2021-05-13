@@ -28,6 +28,7 @@
 - Footer heading selector was changed to h4
 
 # Screenshot of website: 
-![]
+![](Screenshot.png)
 
 # Link to deployed application: 
+https://anamolly.github.io/Code_Refactor/
