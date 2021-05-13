@@ -28,6 +28,6 @@
 - Footer heading selector was changed to h4
 
 # Screenshot of website: 
-![]https://github.com/AnaMolly/Code_Refactor/blob/49e3bd4b20a7a0fdc5cc2cbd1041519dc855d64f/Screen%20Shot%202021-05-12%20at%208.31.51%20PM.png
+![]
 
 # Link to deployed application: 
